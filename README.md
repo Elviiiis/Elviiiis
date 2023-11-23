@@ -5,4 +5,4 @@
 - 📫 Como me encontrar : @elvisebastiao
 
 
-<img src="https://m.media-amazon.com/images/I/61HJt+U6HbL._AC_UF894,1000_QL80_.jpg)https://m.media-amazon.com/images/I/61HJt+U6HbL._AC_UF894,1000_QL80_.jpg" width="150px">
+<img src="https://images.vexels.com/media/users/3/131660/isolated/preview/51bf14c4cbdd1bf617ed8ed7742759f5-decoracao-ornamentada-com-divisoria-de-linha.png" width="150px">
