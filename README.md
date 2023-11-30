@@ -15,4 +15,3 @@
 
 
 
-<img style="center" src="https://media.tenor.com/LqS8mDAc5twAAAAd/minecraft.gif" width="150p'300x">
