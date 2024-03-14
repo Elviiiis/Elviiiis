@@ -1,3 +1,4 @@
+<center>
 - 👋 Opa, bão
 - 👾 Estou a aprendendo a programar, análisar e desenvolver códigos, no curso técnico de Tecnologia e Desenvolvimento de Sistemas
      No Colégio Estadual Eron Domingues.
@@ -12,6 +13,6 @@
 - 👀 Estou interresado em design, gastronomia, informática e programação
 - 🌱 Estou aprender a programar HTML & JavaScript
 - 💞️  Quero aprender diversos bibliotecas de código, e colaborar em algum estágio em uma empresa
-
+</center>
 
 
