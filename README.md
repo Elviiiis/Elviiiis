@@ -5,11 +5,11 @@
      No Colégio Estadual Eron Domingues, Tenho experiência em Informatica de venda e montagem de Eletrônicos.
 - 📫 Como me encontrar : @elvisebastiao
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Elvis&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Elviiiis&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elvis&theme=buefy&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elviiiis&theme=buefy&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elviiiis&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
 - 👀 Estou interresado em design, gastronomia, informática e programação
 - 🌱 Estou aprender a programar HTML & JavaScript
