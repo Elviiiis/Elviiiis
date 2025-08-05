@@ -4,7 +4,7 @@
 - 👾 Estou a aprendendo a programar, análisar e desenvolver códigos, estou cursando técnico de Tecnologia e Desenvolvimento de Sistemas
      No Colégio Estadual Eron Domingues, Tenho experiência em Informatica de venda e montagem de Eletrônicos.
 - 📫 Como me encontrar : @elvisebastiao
-<div class="container" style="center">
+<div class="container" align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Elviiiis&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 
