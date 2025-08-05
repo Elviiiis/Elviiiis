@@ -7,7 +7,9 @@
 
 ![Elvis's Stats](https://github-readme-stats.vercel.app/api?username=Elvis&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 
+![Elvis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elvis&theme=buefy&hide_border=true)
 
+![Elvis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
 - 👀 Estou interresado em design, gastronomia, informática e programação
 - 🌱 Estou aprender a programar HTML & JavaScript
