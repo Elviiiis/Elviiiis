@@ -1,9 +1,11 @@
 <center>
 <h2 align="left">Sobre mim</h2>
-- 👋 Opa, bão!
-- 👾 Estou a aprendendo a programar, análisar e desenvolver códigos, estou cursando técnico de Tecnologia e Desenvolvimento de Sistemas
-     No Colégio Estadual Eron Domingues, Tenho experiência em Informatica de venda e montagem de Eletrônicos.
-- 📫 Como me encontrar : @elvisebastiao
+<h4>- 👋 Opa, bão!</h4>
+<h4>- 👾 Estou a aprendendo a programar, análisar e desenvolver códigos, estou cursando técnico de Tecnologia e Desenvolvimento de Sistemas</h4>
+<h4>- No Colégio Estadual Eron Domingues, Tenho experiência em Informatica de venda e montagem de Eletrônicos.</h4>
+<h4>- 📫 Como me encontrar : @elvisebastiao</h4>
+
+
 <div class="container" align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Elviiiis&theme=buefy&show_icons=true&hide_border=true&count_private=true)
