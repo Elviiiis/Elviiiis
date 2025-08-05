@@ -1,9 +1,9 @@
 <center>
 <h2 align="left">Sobre mim</h2>
-<h5>- 👋 Opa, bão!
-- 👾 Estou a aprendendo a programar, análisar e desenvolver códigos, estou cursando técnico de Tecnologia e Desenvolvimento de Sistemas
- No Colégio Estadual Eron Domingues, Tenho experiência em Informatica de venda e montagem de Eletrônicos.
-- 📫 Como me encontrar : @elvisebastiao</h5>
+ <p>-👋 Opa, bão!</p>
+<p>- 👾 Estou a aprendendo a programar, análisar e desenvolver códigos, estou cursando técnico de Tecnologia e Desenvolvimento de Sistemas
+ No Colégio Estadual Eron Domingues, Tenho experiência em Informatica de venda e montagem de Eletrônicos. </p>
+<p>- 📫 Como me encontrar : @elvisebastiao </p>
 
 
 
