@@ -18,9 +18,11 @@
 - 🌱 Estou aprender a programar HTML & JavaScript
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=000000" height="40" alt="CSS logo" />
+ <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=000000" height="40" alt="HTML logo" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" /></div>
+  </div>
 - 🚨  Quero aprender diversos bibliotecas de código, e colaborar em algum estágio em uma empresa
 </center>
 
