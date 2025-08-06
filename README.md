@@ -20,8 +20,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="40" alt="java logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=000000" height="40" alt="CSS logo" />
- <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=000000" height="40" alt="HTML logo" />
+<img src="https://icongr.am/devicon/html5-original.svg?size=40&color=000000" height="40" alt="HTML logo" />
+<img src="https://icongr.am/devicon/css3-original.svg?size=40&color=000000" height="40" alt="CSS logo" />
+
  
   
   </div>
